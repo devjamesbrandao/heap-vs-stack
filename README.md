@@ -24,3 +24,7 @@
 <p align="center">
     <img src="/img/diferenca.png" alt="Exemplo de uso memória heap e stack" title="Exemplo de uso memória heap e stack">
 </p> 
+
+## Referências
+- .NET Que Você Não Vê: Heap vs Stack: https://eschechola.com.br/2022/03/18/net-que-voce-nao-ve-heap-vs-stack
+- Stack Vs Heap Memory - C#: https://www.c-sharpcorner.com/article/stack-vs-heap-memory-c-sharp/
