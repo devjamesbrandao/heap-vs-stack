@@ -19,3 +19,8 @@
 - Exemplo:
 
   > string maiorCantorDoBrasil = "Gustavo Lima"; // variável armazenada na memória heap
+
+## Exemplo de uso da memória stack e heap
+<p align="center">
+    <img src="/img/diferenca.png" alt="Exemplo de uso memória heap e stack" title="Exemplo de uso memória heap e stack">
+</p> 
